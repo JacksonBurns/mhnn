@@ -1,3 +1,6 @@
+*.csv
+*.pt
+
 wandb
 pyg_data
 exp_results
